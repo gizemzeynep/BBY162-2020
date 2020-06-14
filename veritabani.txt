@@ -1,0 +1,7 @@
+|Kitap Adı | Yazar Adı | ISBN Numarası | Basım Yılı | Yayınevi|
+--------------------------------------------------------------
+Masumiyet Müzesi | Orhan Pamuk| 12582052 | 2005 | Can kitapevi
+Beyaz Geceler | Fyodor Dostoyevski | 7856412 | 2000 | YYK
+Leonardonun Yahudasi | Leo Perutz | 7845123 | 2001 | KırmızıKedi
+Göğü Delen Adam | Erich Scheurmann | 8745123 | 1999 | Ayrıntı
+Sırça Fanus | Sylvia Plath | 845124 | 2003 | KırmızıKedi
